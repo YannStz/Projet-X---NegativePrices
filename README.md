@@ -1,2 +1,3 @@
 # PythonMadeGreatAgain---Projet-X
-Source : https://transparency.entsoe.eu/
+Chosen data sets: 
+Source: https://transparency.entsoe.eu/
